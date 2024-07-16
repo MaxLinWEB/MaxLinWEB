@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MaxLin
 - 👀 I’m interested in Front-End developing 
-- 🌱 I’m currently learning HTML, CSS , JScript, Python , SQL, React & Angular framework, C++ , Kotlin ,Swift 
+- 🌱 I’m currently learning HTML, CSS , JScript, Python , SQL, React & Angular frameworks, C++ , Kotlin ,Swift 
 - 💞️ I’m looking to collaborate on some intereting F-E projects
 - ⚡ Fun fact: I am the student in CEITI
 
