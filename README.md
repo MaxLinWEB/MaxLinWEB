@@ -28,7 +28,7 @@ Finds companies in a niche and a city, opens each website in a real browser and 
 
 ## Also built
 
-- **site-monitor**: an uptime monitor that tells a DNS failure from a TLS error, a 429 or a timeout, ignores one-off blips and pings Telegram only when the status really changes. Includes a `/status` API. `TypeScript` `Node` `Docker` `Railway`
+- **[site-monitor](https://github.com/MaxLinWEB/site-monitor)** (open source): an uptime monitor that tells a DNS failure from a TLS error, a 429 or a timeout, ignores one-off blips and pings Telegram only when the status really changes. Includes a `/status` API. `TypeScript` `Node` `Docker` `Railway`
 - **Electoniq**: an electronics store for Moldova with catalog, cart, favorites, orders and an admin panel. `React` `Vite` `Tailwind` `Supabase` `Cloudinary`
 - **MaxLinify**: a cross-platform music app with an Expo mobile client and a Node backend in Docker. `React Native` `Expo` `Express`
 - **ChromeAuto**: a car-parts storefront with tests and an Nginx + Docker deploy. `React` `Vite` `Tailwind 4` `Vitest`
