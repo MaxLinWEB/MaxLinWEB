@@ -90,17 +90,11 @@ I'm always interested in:
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=MaxLinWEB&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=MaxLinWEB&theme=dracula&hide_border=false)
+![MaxLinWEB's GitHub activity](./assets/stats.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLinWEB&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-## 🏆 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=MaxLinWEB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## ✍️ Random Dev Quote
 
@@ -113,8 +107,6 @@ I'm always interested in:
 ### 📫 Let's Connect
 
 Feel free to reach out for collaborations or just a friendly chat about tech!
-
-[![](https://visitcount.itsvg.in/api?id=MaxLinWEB&icon=2&color=0)](https://visitcount.itsvg.in)
 
 **"Building the future, one commit at a time"** 🚀
 
